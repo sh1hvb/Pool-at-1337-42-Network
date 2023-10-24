@@ -33,7 +33,7 @@ Pool-at-1337-42-Network/  </br>
 │  </br>
 ├── Shell01/ </br>
 │   ├── ex00/ </br>
-│   │   ├── main.c </br>
+│   │   ├── bash.sh </br>
 │   │   ├── ... </br>
 │   │   └── README.md  </br>
 │   ├── ex01/ </br>
