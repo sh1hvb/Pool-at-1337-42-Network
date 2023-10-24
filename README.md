@@ -13,19 +13,21 @@ Welcome to the 1337 Piscine repository – your coding adventure starts here!
    ```bash
    git clone https://github.com/sh1hvb/Pool-at-1337-42-Network.git
 
-Explore Modules:
+2.Explore Modules:
 Find organized modules with exercises, READMEs, and solutions.
 
-Work on Exercises:
+3.Work on Exercises:
 Dive into exercises with instructions and resources.
 
-Submit Solutions:
+4.Submit Solutions:
 Follow mentor guidelines for submissions.
 
-Contribute (Optional):
+5.Contribute (Optional):
 Share your solutions or resources by creating pull requests. See Contributing for details.
  </br>
-  📁 Repository Structure  </br>
+
+## 📁 Repository Structure  </br>
+
 Here's how this repository is organized: </br>
 Pool-at-1337-42-Network/  </br>
 │  </br>
