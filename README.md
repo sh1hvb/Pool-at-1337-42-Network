@@ -12,19 +12,19 @@ Welcome to the 1337 Piscine repository – your coding adventure starts here!
 1. **Clone this Repository:** 
    ```bash
    git clone https://github.com/sh1hvb/Pool-at-1337-42-Network.git
-Pool-at-1337-42-Network/
-│
-├── Shell01/
-│   ├── ex00/
-│   │   ├── main.c
-│   │   ├── ...
-│   │   └── README.md
-│   ├── ex01/
-│   ├── ...
-│
-├── C02/
-│   ├── ...
-│
-├── ...
-│
-├── README.md
+Pool-at-1337-42-Network/  </br>
+│  </br>
+├── Shell01/ </br>
+│   ├── ex00/ </br>
+│   │   ├── main.c </br>
+│   │   ├── ... </br>
+│   │   └── README.md  </br>
+│   ├── ex01/ </br>
+│   ├── ...  </br>
+│  </br>
+├── C02/ </br>
+│   ├── ...  </br>
+│   </br>
+├── ...  </br>
+│   </br>
+├── README.md  </br>
