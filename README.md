@@ -1,6 +1,6 @@
 <strong>42 Cursus</strong> </br>
 <div align="center">
-  <img src="42curs.png" alt="42 Cursus" width="200">
+  <img src="42curs.png" alt="42 Cursus" width="">
 </div>
 
 # 1337 Piscine
